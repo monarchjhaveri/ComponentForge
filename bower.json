@@ -1,0 +1,18 @@
+{
+  "name": "component-forge",
+  "version": "0.0.0",
+  "description": "React quick component creation environment with BrowserSync and Browserify.",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "bootstrap-sass": "~3.3.5",
+    "jquery": "~2.1.4",
+    "datatables": "~1.10.7"
+  }
+}
