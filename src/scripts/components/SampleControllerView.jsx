@@ -22,7 +22,7 @@ var SampleControllerView = React.createClass({
 		return (
 			<div style={divstyle}>
 				<span style={divstyle}>{this.state.text}</span><br/>
-				<SampleEditor store={this.props.store}/>
+				<SampleEditor/>
 			</div>
 		)
 	}
